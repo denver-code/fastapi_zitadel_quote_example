@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "fastapi-zitadel-quote-example"
+version = "0.1.0"
+description = ""
+authors = ["Ihor Savenko <csigorek@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.103.2"
+authlib = "^1.2.1"
+pyjwt = "^2.8.0"
+python-dotenv = "^1.0.0"
+requests = "^2.31.0"
+uvicorn = "^0.23.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,1 @@
+{"type":"application","keyId":"<YOUR_KEY_ID>","key":"-----BEGIN RSA PRIVATE KEY-----\n<YOUR KEY>\n-----END RSA PRIVATE KEY-----\n","appId":"<YOUR_APP_ID>","clientId":"<YOUR_CLIENT_ID>"}
